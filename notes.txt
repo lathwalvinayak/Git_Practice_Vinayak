@@ -1,1 +1,2 @@
 "Git is a distributed version control system that helps track changes, collaborate with others, and manage project versions efficiently." 
+"Git branches allow you to work on multiple features or fixes simultaneously without affecting the main codebase." 
